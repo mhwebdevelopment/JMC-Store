@@ -99,7 +99,7 @@ const Header = () => {
             </div>
             <div className="nav__icons">
               <span className="fav__icon">
-                <a href="tel:+2175497546">
+                <a href="tel:+15187960046">
                   <i class="ri-phone-line"></i>
                 </a>
               </span>
