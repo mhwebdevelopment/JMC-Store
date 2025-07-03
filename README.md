@@ -1,3 +1,5 @@
+![Screenshot of Online Art Marketplace Hero Section](https://mhwebdevelopment.com/assets/images/jmcartmockup.png)
+
 # 🎨 JMC Store — Minimalist Art Gallery Ecommerce Platform
 
 A simple online art gallery & ecommerce platform built for gallery owners, artists, collectors, and investors. With minimal user-friendly browsing, role-based dashboards, Firebase Firestore, Stripe checkout, Google authentication integrations.
