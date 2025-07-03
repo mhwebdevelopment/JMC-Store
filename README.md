@@ -73,7 +73,7 @@ This was a project for a small Art Gallery in New York. Feel free to use it as a
 ## Artist & Admin Dashboards
 
 - **Artist Dashboard:** Upload artwork, manage inventory, track invoices  
-- 🛠**Admin Dashboard:** Invite artists, assign roles, manage gallery  
+- **Admin Dashboard:** Invite artists, assign roles, manage gallery  
 - Role-based access control ensures secure actions
 
 ---
