@@ -43,7 +43,7 @@ This was a project for a small Art Gallery in New York. Feel free to use it as a
 - Admin panel with artist invite & access controls
 - Hosted previously on a VPS
 - Toast notifications and responsive design
-- 
+
 ---
 
 ## User Roles & Privileges
