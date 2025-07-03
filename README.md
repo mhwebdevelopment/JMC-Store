@@ -6,14 +6,16 @@ This was a project for a small Art Gallery in New York. Feel free to use it as a
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/mhwebdevelopment/JMC-Store?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/mhwebdevelopment/JMC-Store?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/mhwebdevelopment/JMC-Store?style=for-the-badge" />
-  <img src="https://img.shields.io/github/pull-requests/mhwebdevelopment/JMC-Store?style=for-the-badge" />
-  <img src="https://img.shields.io/github/contributors/mhwebdevelopment/JMC-Store?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license-mit/mhwebdevelopment/JMC-Store?style=for-the-badge" />
-</p>
+## Technologies Used
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=flat&logo=stripe&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF5B5B?style=flat&logo=framer&logoColor=white)
+
 
 ## Quick Links
 
@@ -41,19 +43,7 @@ This was a project for a small Art Gallery in New York. Feel free to use it as a
 - Admin panel with artist invite & access controls
 - Hosted previously on a VPS
 - Toast notifications and responsive design
-
----
-
-## Technologies Used
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=flat&logo=stripe&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF5B5B?style=flat&logo=framer&logoColor=white)
-
+- 
 ---
 
 ## User Roles & Privileges
