@@ -12,8 +12,7 @@ This was a project for a small Art Gallery in New York. Feel free to use it as a
   <img src="https://img.shields.io/github/issues/mhwebdevelopment/JMC-Store?style=for-the-badge" />
   <img src="https://img.shields.io/github/pull-requests/mhwebdevelopment/JMC-Store?style=for-the-badge" />
   <img src="https://img.shields.io/github/contributors/mhwebdevelopment/JMC-Store?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/mhwebdevelopment/JMC-Store?style=for-the-badge" />
-  <img src="https://img.shields.io/github/package-json/v/mhwebdevelopment/JMC-Store?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license-mit/mhwebdevelopment/JMC-Store?style=for-the-badge" />
 </p>
 
 ## Quick Links
